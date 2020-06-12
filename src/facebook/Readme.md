@@ -1,0 +1,1 @@
+Change the **'FACEBOOK_APP_ID'** & **'FACEBOOK_SECRET'** With the new Credential of ur app, that you get from the Facebook Developers Console.
