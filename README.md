@@ -1,7 +1,6 @@
 # Google & Facebook OAuth Integration To NestJS
-#
-#
-#
+
+
 #### Google
 - Find the Config file under the Google Module Folder.
 - Change the `GOOGLE_CLIENT_ID` & `GOOGLE_SECRET` With the new credential of your app. From google developers console.
