@@ -1,3 +1,3 @@
-export const FACEBOOK_APP_ID = 'Enter Your App Id Here';
+export const FACEBOOK_APP_ID = '258251032154800';
 
-export const FACEBOOK_SECRET = 'Enter Your Facebook Secret Here';
+export const FACEBOOK_SECRET = 'a9dcf027519512e77330950de868cf8b';
